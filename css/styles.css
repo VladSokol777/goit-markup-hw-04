@@ -435,3 +435,12 @@ img {
   justify-content: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.sm-ref:hover {
+  background-color: #31d0aa;
+}
+.sm-ref:focus {
+  background-color: #31d0aa;
+}
+.sm-svg {
+  color: #f4f4fd;
+}

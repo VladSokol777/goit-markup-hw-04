@@ -357,7 +357,7 @@ img {
   position: relative;
 }
 .post-title-section-four-list:hover .image-paragraph {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 .app-category-name {
   padding: 32px 16px;

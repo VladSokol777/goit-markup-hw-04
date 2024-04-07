@@ -356,7 +356,7 @@ img {
   overflow: hidden;
   position: relative;
 }
-.products:hover {
+.post-title-section-four-list:hover .image-paragraph {
   transform: translateY(0);
 }
 .app-category-name {
